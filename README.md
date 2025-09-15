@@ -25,4 +25,4 @@ Python · PyTorch · NetworkX · Matplotlib · Scikit-learn
 
 ## More Details  
 - 📓 [Colab Notebook](https://colab.research.google.com/drive/1GG4YPwE189M9sYdN8U3x2Tclk36hvQ4O)  
-- 📄 [Full Report (PDF)](./annotated-916616559_A%20Trust-Based%20Dating%20Network%20Using%20Friends-of-Friends-of-Friends%28FoFoF%29%20Recommendation.pdf)  
+- 📄 [Full Report (PDF)](./FinalReport.pdf)  
